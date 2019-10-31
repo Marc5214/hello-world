@@ -1,2 +1,3 @@
 # hello-world
 Just a test...
+This is just some text here you needn't really care about, but this is important for me to understand and learn how to use GitHub and pull-requests.
